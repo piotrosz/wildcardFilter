@@ -1,0 +1,2 @@
+# wildcardFilter
+AngularJS wildcard filter
